@@ -191,7 +191,7 @@ python scripts/seed_test_users.py
 - [ ] **Project 2: Research Assistant** - Multi-document reasoning, web search integration.
 - [ ] **Project 3: AI SaaS Platform** - API keys, billing, multi-tenant SaaS.
 - [ ] **Project 4: Agentic Automation** - LangGraph, tool calling, human-in-the-loop workflows.
-- [ ] **Phase 5:** Interview Preparation & Theory deep-dive.
+
 
 ## 📜 License
 
